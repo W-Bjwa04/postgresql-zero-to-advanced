@@ -1,0 +1,1 @@
+SELECT name, category, price , stock FROM products WHERE name = 'Quantum Laptop 15';

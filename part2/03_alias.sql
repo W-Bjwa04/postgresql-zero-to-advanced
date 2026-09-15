@@ -1,0 +1,1 @@
+SELECT name AS product_name FROM products;
